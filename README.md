@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chao1577135517
 - 👀 I’m interested in electron microscopy of artificial intelligence about TEM and single atom catalyst 
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on DIP
+- 💞️ I’m looking to collaborate on atom position acquirement
 - 📫 How to reach me ...
 
 <!---
